@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot of NumberNav component 1`] = `
+Array [
+  <p
+    style={
+      Object {
+        "marginBottom": "7px",
+        "textAlign": "center",
+      }
+    }
+  >
+    Match the Following (eg: 1: a, 2: b)
+  </p>,
+  <div
+    className="MuiBox-root css-m7eb2g"
+  >
+    <div
+      className="MuiBox-root css-14jbbht"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1 css-r9rcpu-MuiTypography-root"
+        role="match-qa"
+      >
+        Question
+      </p>
+    </div>
+    <div
+      className="MuiBox-root css-13ce5na"
+    />
+  </div>,
+]
+`;

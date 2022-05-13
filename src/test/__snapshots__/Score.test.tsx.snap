@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot of Score component 1`] = `
+<div
+  className="MuiBox-root css-1gsqmhk"
+>
+  <div
+    className="MuiBox-root css-1m8kvpl"
+  >
+    <div
+      className="MuiBox-root css-118x3hb"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1 css-90qbru-MuiTypography-root"
+        role="Display-Question-0"
+      >
+        console.log() is used to read input from the user
+      </p>
+      <p
+        className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+        role="Display-Correct-Answer-0"
+      >
+        Correct Answer:
+         
+        False
+      </p>
+      <p
+        className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+        role="Display-Chosen-Answer-0"
+      >
+        Your Answer:
+        False
+      </p>
+    </div>
+    <div
+      className="MuiBox-root css-118x3hb"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1 css-90qbru-MuiTypography-root"
+        role="Display-Question-1"
+      >
+        console.log() is used to read input from the user
+      </p>
+      <p
+        className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+        role="Display-Correct-Answer-1"
+      >
+        Correct Answer:
+         
+        False
+      </p>
+      <p
+        className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+        role="Display-Chosen-Answer-1"
+      >
+        Your Answer:
+        False
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiBox-root css-np0z5b"
+  >
+    <canvas
+      height={150}
+      role="score-piechart"
+      width={300}
+    />
+  </div>
+</div>
+`;
